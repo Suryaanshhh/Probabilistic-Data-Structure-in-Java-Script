@@ -1,0 +1,11 @@
+{
+  "name": "probabilistic.js",
+  "version": "3.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suryansh",
+  "license": "MIT",
+  "description": "probabilistic data structure in js"
+}
