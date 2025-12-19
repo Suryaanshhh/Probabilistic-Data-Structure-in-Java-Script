@@ -14,10 +14,6 @@ A lightweight, high-performance JavaScript library for probabilistic data struct
 npm install probabilistic-js
 
 
-```md
-### Basic Example
-
-```js
 const filter = BloomFilter.fromExpectedItems(1000, 0.01);
 
 filter.add("apple");
